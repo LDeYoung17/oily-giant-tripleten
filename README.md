@@ -34,4 +34,5 @@ This project will predict the profits for the top 200 wells in a region that is 
 I am planning to update commentary on the machine learning sections. 
 
 <h2>Sample Graph</h2>
+
 ![integrated_sample](https://github.com/LDeYoung17/oily-giant-tripleten/assets/70500225/907db3c3-a00e-4dca-b29d-944e91b530ca)
