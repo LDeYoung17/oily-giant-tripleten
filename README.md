@@ -7,9 +7,7 @@ This project will predict the profits for the top 200 wells in a region that is 
 <h2>Table of Contents</h2>
 
 1. Exploratory Data Analysis and Machine Learning Model using Bootstrapping (notebooks > ML.ipynb)
-   
-  Creating data visualizations in Jupyter Notebook
-   
+      
         a) Project introduction
         b) Library and data importation
         c) Data preprocessing - finding and removing duplicate values, filling in missing values, etc.
