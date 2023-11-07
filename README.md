@@ -29,7 +29,7 @@ This project will predict the profits for the top 200 wells in a region that is 
 
 <h2>Plans for updates</h2>
 
-I am planning to update the commentary on the machine learning sections. 
+Update the commentary on the machine learning sections using the markup function to eliminate old and incorrect conclusions. 
 
 <h2>Sample Graph</h2>
 
