@@ -34,3 +34,10 @@ Update the commentary on the machine learning sections using the markup function
 <h2>Sample Graph</h2>
 
 ![integrated_sample](https://github.com/LDeYoung17/oily-giant-tripleten/assets/70500225/907db3c3-a00e-4dca-b29d-944e91b530ca)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
