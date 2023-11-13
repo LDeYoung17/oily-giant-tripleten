@@ -36,6 +36,9 @@ Update the commentary on the machine learning sections using the markup function
 
 ![integrated_sample](https://github.com/LDeYoung17/oily-giant-tripleten/assets/70500225/907db3c3-a00e-4dca-b29d-944e91b530ca)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1SWTHMlMllzx7zWXax0sZogAk7BRxPucT/view?usp=drive_link
 
 <h2>Portfolio Link</h2>
 
